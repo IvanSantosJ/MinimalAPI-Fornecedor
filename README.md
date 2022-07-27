@@ -1,2 +1,2 @@
 # MinimalAPI-Fornecedor
- API CRUD com Autenticação utilizando o conceito de MinimalAPI do .NET 6
+ API CRUD com Autenticação utilizando o conceito de MinimalAPI.
